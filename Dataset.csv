@@ -1,0 +1,161 @@
+Disease,Count of Disease Occurrence,Symptom
+diabetes,1421,polyuria
+,,polydypsia
+,,shortness of breath
+,,pain chest
+,,asthenia
+,,nausea
+,,orthopnea
+,,rale
+,,sweating increased
+,,unresponsiveness
+,,mental status changes
+,,vertigo
+,,vomiting
+,,labored breathing
+depressive ,1337,feeling suicidal
+,,suicidal
+,,hallucinations auditory
+,,feeling hopeless
+,,weepiness
+,,sleeplessness
+,,motor retardation
+,,irritable mood
+,,blackout
+,,mood depressed
+,,hallucinations visual
+,,worry
+,,agitation
+,,tremor
+,,intoxication
+,,verbal auditory hallucinations
+,,energy increased
+,,difficulty
+,,nightmare
+,,unable to concentrate
+,,homelessness
+anxiety ,390,worry
+,,feeling suicidal
+,,suicidal
+,,sleeplessness
+,,feeling hopeless
+,,irritable mood
+,,tremor
+,,blackout
+,,weepiness
+,,has religious belief
+,,nervousness
+,,hallucinations visual
+,,formication
+,,difficulty
+,,pain chest
+,,patient non compliance
+,,agitation
+,,palpitation
+,,hallucinations auditory
+,,mood depressed
+,,hot flush
+,,pain
+,,consciousness clear
+,,nightmare
+hemorrhoids,80,haemorrhage
+,,bowel sounds decreased
+,,decreased stool caliber
+,,nausea and vomiting
+,,hunger
+,,diarrhea
+,,dizziness
+,,hyponatremia
+,,clonus
+,,pain
+,,achalasia
+,,burning sensation
+,,guaiac positive
+,,numbness of hand
+,,wheezing
+,,cough
+schizophrenia,147,hallucinations auditory
+,,hypersomnolence
+,,irritable mood
+,,verbal auditory hallucinations
+,,patient non compliance
+,,agitation
+,,suicidal
+,,worry
+,,hallucinations visual
+,,underweight
+pneumonia,1029,cough
+,,fever
+,,decreased translucency
+,,shortness of breath
+,,rale
+,,productive cough
+,,pleuritic pain
+,,yellow sputum
+,,breath sounds decreased
+,,chill
+,,rhonchus
+,,green sputum
+,,non-productive cough
+,,wheezing
+,,haemoptysis
+,,distress respiratory
+,,tachypnea
+,,malaise
+,,night sweat
+diverticulitis,145,pain abdominal
+,,abscess bacterial
+,,dullness
+,,red blotches
+,,diarrhea
+,,sore to touch
+,,dysuria
+,,pain
+,,vomiting
+,,sinus rhythm
+,,colic abdominal
+,,apyrexial
+,,abdominal tenderness
+,,fever
+,,unsteady gait
+,,thicken
+,,urgency of micturition
+,,anorexia
+,,monoclonal
+,,constipation
+bronchitis,172,cough
+,,wheezing
+,,shortness of breath
+,,chest tightness
+,,fever
+,,throat sore
+,,productive cough
+,,hepatosplenomegaly
+,,night sweat
+,,haemoptysis
+,,labored breathing
+,,snuffle
+,,hacking cough
+,,dyspnea
+,,chill
+,,stridor
+,,decreased body weight
+asthma,835,wheezing
+,,cough
+,,shortness of breath
+,,chest tightness
+,,non-productive cough
+,,pleuritic pain
+,,productive cough
+,,symptom aggravating factors
+,,distress respiratory
+arthritis,179,pain
+,,hemodynamically stable
+,,sleeplessness
+,,asthenia
+,,syncope
+,,swelling
+,,atypia
+,,general unsteadiness
+,,shortness of breath
+,,distended abdomen
